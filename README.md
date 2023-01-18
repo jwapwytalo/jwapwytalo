@@ -22,6 +22,8 @@
   
   ##
   ![Snake animation](https://github.com/jwapwytalo/JwapWytalo/blob/output/github-contribution-grid-snake.svg)
+  
+  .
           
           
           
